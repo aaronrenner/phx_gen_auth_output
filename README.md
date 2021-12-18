@@ -1,6 +1,6 @@
 # phx_gen_auth output
 
-This is a phoenix 1.5.3 project used to show the output of different versions
+This is a phoenix 1.6.0 project used to show the output of different versions
 [phx_gen_auth](https://hex.pm/packages/phx_gen_auth). The authentication code is
 generated with the following command:
 
